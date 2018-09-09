@@ -17,7 +17,7 @@ Below are the tools and libraries (and their minimum versions) required to build
 * gcc
 * glib-2.0
 * wiringpi
-* libpbnjson
+* json-c
 * pmloglib
 * make
 * cmake-modules-webos
